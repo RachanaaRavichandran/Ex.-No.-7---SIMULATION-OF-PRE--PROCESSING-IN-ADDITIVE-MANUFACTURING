@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 13.03.2026
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -44,9 +44,20 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+SUPPORT REMOVAL
+<img width="1919" height="787" alt="Screenshot 2026-03-13 180622" src="https://github.com/user-attachments/assets/10d0c8f0-a908-4b13-ac62-61c18d99af4b" />
 
-### Name:
-### Register Number:
+UV CURING
+<img width="1919" height="798" alt="Screenshot 2026-03-13 180651" src="https://github.com/user-attachments/assets/0c7bc90a-70c7-4c3c-b47b-468250389b4b" />
+
+HEAR TREATMENT
+<img width="1919" height="795" alt="Screenshot 2026-03-13 180714" src="https://github.com/user-attachments/assets/42642f03-bc7c-4523-a69a-06d5a9e04494" />
+
+
+
+
+### Name:R.Rachanaa
+### Register Number:25004301
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
